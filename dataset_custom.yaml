@@ -1,0 +1,12 @@
+train: <path to folder containing train images >/train
+val: <path to folder containing val images >/val
+
+
+# for traffic light detection
+nc: 1
+names: ['trafficlight']
+
+
+# for traffic light color detection
+# nc: 3
+# names: ['go', 'stop', 'unknown']

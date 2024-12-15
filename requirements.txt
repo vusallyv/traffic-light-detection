@@ -81,7 +81,7 @@ nvidia-nccl-cu12==2.21.5
 nvidia-nvjitlink-cu12==12.4.127
 nvidia-nvtx-cu12==12.4.127
 omegaconf==2.3.0
-onnx==1.15.0
+onnx==1.17.0
 onnxruntime==1.15.0
 onnxsim==0.4.36
 opencv-python==4.10.0.84
